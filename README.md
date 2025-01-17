@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajal Sharma</h1>
-<h3 align="center">A passionate Student from India</h3>
+<h3 align="center">A passionate Coder from India</h3>
 
 <p align="left"> <a href="https://twitter.com/sh55626233" target="blank"><img src="https://img.shields.io/twitter/follow/sh55626233?logo=twitter&style=for-the-badge" alt="sh55626233" /></a> </p>
 
